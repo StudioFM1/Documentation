@@ -12,7 +12,7 @@
 Ακολουθεί αναλυτικά η λίστα του εξοπλισμού μαζι με τα μάνουαλς. Πατήστε πάνω στο κάθε ένα για να κατευθυνθείτε στο αντίστοιχο κεφάλαιο.
 
 ### _Στο γραφείο:_
-- Κονσόλα, D&R Airlite MKII [Manual](https://www.dnrbroadcast.com/_files/ugd/f42d35_2d210461180746538515f6d68493b00b.pdf) 
+- [Κονσόλα](https://github.com/StudioFM1/Documentation/blob/main/studio_manual.md#%CE%B7-%CE%BA%CE%BF%CE%BD%CF%83%CF%8C%CE%BB%CE%B1-dr-airlite-mkii), D&R Airlite MKII [Manual](https://www.dnrbroadcast.com/_files/ugd/f42d35_2d210461180746538515f6d68493b00b.pdf) 
 - Μικρόφωνα, Rode PodMic [Manual&Specs](https://rode.com/en-au/products/podmic#section-specs)
 - Ηχεία monitors, Presonus Eris 3.5 [Manual](https://pae-web.presonusmusic.com/downloads/products/pdf/Eris-series_E3.5_E3.5_BT_E4.5_E4.5_BT_OwnersManual_EN_11102019.pdf)
 - Ακουστικά, Numark Red Wave Carbon [Specs](https://www.numark.com/product/red-wave-carbon)
@@ -50,7 +50,7 @@
     ![](https://www.a-store.gr/image/cache/1000-2000/1900-1999/1900/12v-10a-14198-500x500-1000x1000.png)
 
 ## Η Κονσόλα D&R Airlite MKII
-![](assets/photos/fm1_manual-1.png)
+<img src="assets/photos/fm1_manual-1.png" alt="Alt Text" width="400" height="400">
 
 ### Κανάλια(Φέτες)
 - Κανάλια 1-4: Τα μικρόφωνα του στούντιο(_Το Κανάλι 3 ειναι το μικρόφωνο του παραγωγού_)
