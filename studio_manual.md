@@ -29,8 +29,7 @@
 
 ### Για ήχο:
 
-- XLR: Για τη σύνδεση μικροφώνων. Είναι balanced σύνδεση([_Βλέπε παραπάνω ίνφο_]
-(https://support.focusrite.com/hc/en-gb/articles/115005178585-Differences-between-balanced-and-unbalanced-audio).
+- XLR: Για τη σύνδεση μικροφώνων. Είναι balanced σύνδεση([_Βλέπε παραπάνω ίνφο_](https://support.focusrite.com/hc/en-gb/articles/115005178585-Differences-between-balanced-and-unbalanced-audio)).
 ![](https://www.hollyland.com/wp-content/uploads/2023/10/image-171.png)
 - TS, TRS Jack 6.35mm: Για σύνδεση πηγών ήχου στη κονσόλα(πχ pc, κινητό), σύνδεση ακουστικών σε προενισχυτή ακουστικών κ.α. Το TS ειναι MONO και το TRS ειναι STEREO ([_Βλέπε παραπάνω ίνφο_](https://www.sonos.com/en/blog/mono-vs-stereo-sound)).
 ![](https://cdn.shopify.com/s/files/1/0683/6738/4862/files/TS_TRS_Cable_Image_1.png?v=1710893829)
