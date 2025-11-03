@@ -1,4 +1,4 @@
-![](Logo.png)
+![](assets/Logo.png)
 
 # Studio FM1 Documentation
 
