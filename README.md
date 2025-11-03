@@ -4,6 +4,6 @@
 
 ## Ένας χώρος για όλο το documentation που αφορά το σταθμό.
 
-### [Μεγάλο Στούντιο]() Under Construction
+### [Μεγάλο Στούντιο](studio_manual.md) Under Construction
 
 ### [Κεραία]() Coming soon...
