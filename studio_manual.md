@@ -52,7 +52,7 @@
 ## Η Κονσόλα D&R Airlite MKII
 <img src="assets/photos/fm1_manual-1.png" alt="Alt Text" width="400" height="400">
 
-### Κανάλια(Φέτες)
+### Κανάλια(faders ή Φέτες)
 - Κανάλια 1-4: Τα μικρόφωνα του στούντιο(_Το Κανάλι 3 ειναι το μικρόφωνο του παραγωγού_)
 - Κανάλι 5: Jazzler
 - Κανάλι 6: DJuiced(PC παραγωγού)
@@ -64,7 +64,7 @@
 
     <img src="assets/photos/fm1_manual-4.png" alt="Alt Text" width="400" height="400">
 
-    Μόλις σηκωθούν οι φέτες, το κουμπί "ΟΝ" γίνεται **πράσινο**.
+    Μόλις σηκωθεί η φέτα, το κουμπί "ΟΝ" γίνεται **πράσινο**.
 
     <img src="assets/photos/fm1_manual - 5.png" alt="Alt Text" width="400" height="400">
 
