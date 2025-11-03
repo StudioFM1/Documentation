@@ -47,7 +47,7 @@
 > [!CAUTION]
 > _Μπορεί να μοιάζουν μεταξύ τους αλλα δεν είναι τα ίδια. Να χρησιμοποιειται πάντα τα σωστά τροφοδοτικά των αντίστοιχων συσκευών, με τα σωστά Volt και Ampere_.
 
-    ![](https://www.a-store.gr/image/cache/1000-2000/1900-1999/1900/12v-10a-14198-500x500-1000x1000.png)
+ ![](https://www.a-store.gr/image/cache/1000-2000/1900-1999/1900/12v-10a-14198-500x500-1000x1000.png)
 
 ## Η Κονσόλα D&R Airlite MKII
 <img src="assets/photos/fm1_manual-1.png" alt="Alt Text" width="400" height="400">
